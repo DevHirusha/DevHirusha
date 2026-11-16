@@ -7,6 +7,38 @@
 
 -  Fun fact **call me as Hirusha**
 
+<h2 align="center">👨‍💻 About Me</h2>
+
+<table align="center" border="0" cellpadding="8" cellspacing="0">
+  <tr>
+    <td width="60%" valign="top" align="left">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=2500&pause=800&color=06B6D4&vCenter=true&width=460&lines=Full+Stack+Developer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;Java+%26+Spring+Backend+%E2%98%95;Always+Learning+Something+New+%F0%9F%8C%B1" alt="Typing SVG" />
+
+Hi there! I'm **Hirusha Dilshan Alwis** — a passionate **Full Stack Developer** from Sri Lanka 🇱🇰.
+
+I love turning ideas into clean, functional products — from responsive web apps to cross-platform mobile experiences. I enjoy working across the whole stack: designing the UI, building the API, and wiring up the database.
+
+- 🔭 Currently building **full stack web & mobile apps**
+- 🌱 Exploring **Spring Boot, React & Flutter**
+- 💬 Ask me about **Java, JavaScript, Node.js, MongoDB**
+- 📫 Reach me at **hdrxdev@gmail.com**
+- ⚡ Fun fact: **just call me Hirusha**
+
+<br/>
+
+<img src="https://img.shields.io/badge/📍_Sri_Lanka-06B6D4?style=flat-square&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/Open_to_Collaborate-06B6D4?style=flat-square&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/Full_Stack-06B6D4?style=flat-square&labelColor=1F2937" />
+
+  </td>
+    <td width="40%" align="center" valign="middle">
+
+<img src="scanner.svg" width="260" height="260" alt="Hirusha Dilshan Alwis" />
+
+  </td>
+  </tr>
+</table>
 
 <h2 align="center">🤝 Connect With Me</h2>
 

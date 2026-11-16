@@ -34,7 +34,9 @@ I love turning ideas into clean, functional products — from responsive web app
   </td>
     <td width="40%" align="center" valign="middle">
 
-<img src="scanner.svg" width="260" height="260" alt="Hirusha Dilshan Alwis" />
+<img src="assets/logo.jpeg" width="260"
+     style="border-radius:20px; border:2px solid #06b6d4; box-shadow:0 0 25px rgba(6,182,212,0.4);"
+     alt="Hirusha Dilshan Alwis" />
 
   </td>
   </tr>

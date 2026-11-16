@@ -32,13 +32,17 @@ I love turning ideas into clean, functional products — from responsive web app
 <img src="https://img.shields.io/badge/Full_Stack-06B6D4?style=flat-square&labelColor=1F2937" />
 
   </td>
-    <td width="40%" align="center" valign="middle">
+   
+<td width="40%" align="center" valign="middle">
 
-<img src="assets/logo.jpeg" width="260"
-     style="border-radius:20px; border:2px solid #06b6d4; box-shadow:0 0 25px rgba(6,182,212,0.4);"
-     alt="Hirusha Dilshan Alwis" />
+  <img
+    src="https://raw.githubusercontent.com/DevHirusha/DevHirusha/main/scanner.svg"
+    width="260"
+    alt="Hirusha Animated Scanner Profile"
+  />
 
-  </td>
+</td>
+
   </tr>
 </table>
 
